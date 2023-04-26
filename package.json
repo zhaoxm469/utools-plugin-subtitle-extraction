@@ -1,0 +1,12 @@
+{
+  "name": "jianying-subtitle-extraction",
+  "version": "1.0.0",
+  "description": "提取剪映影片智能字幕的全部文案",
+  "main": "index.js",
+  "author": "zhaoxm",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "srt-to-vtt": "^1.1.3"
+  }
+}
