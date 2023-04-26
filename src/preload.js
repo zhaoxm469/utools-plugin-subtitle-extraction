@@ -40,16 +40,4 @@ window.exports = {
       placeholder: "请输入搜索内容",
     },
   },
-  //   "olading-bookmarking-pull": {
-  //     mode: "none",
-  //     args: {
-  //       // 进入插件应用时调用（可选）
-  //       enter: (action, callbackSetList) => {
-  //         // pull()
-  //         // utools.showNotification("正在拉取数据")
-  //         // utools.hideMainWindow()
-  //         // utools.outPlugin()
-  //       },
-  //     },
-  //   },
 };
